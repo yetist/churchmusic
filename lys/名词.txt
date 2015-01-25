@@ -1,0 +1,42 @@
+accent: 重音
+acciaccatura: 短倚音
+accidental: 临时变化音记号
+appoggatura: 长倚音
+arpeggio: 琶音
+bar line: 小节线
+bar: 小节
+beam: 符杠
+clef: 谱号
+dot: 点，附点
+dotted note: 附点音符
+duration: 时值
+fermata: 延长记号，停留记号
+flag: 符尾
+flat: 降号
+grace note: 花音，装饰音
+interval: 音程
+key signature: 调号
+key: 调
+major: 大调
+measure: 小节
+metronome: 节拍器
+minor: 小调
+natural: 还原记号，自然音
+note head: 符头
+note: 音符
+octave: 八度（音程）
+pitch: 音高
+rest: 休止符
+score: 乐谱
+sharp: 升号
+slur: 圆滑连线
+staccato: 断奏，跳音
+staff: 五线谱
+stem: 符干
+tempo: 速度
+tenuto: 连音，持续音
+tie: 延音线，连音线
+time signature: 拍号
+trill: 颤音
+triplet: 三连音
+tuplet: 修拍，N连音
